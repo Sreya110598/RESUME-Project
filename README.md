@@ -1,0 +1,1 @@
+The resume_parsing project using Flask and GroqAPI is a web application that allows users to upload PDF resumes, which are then parsed to extract details such as Name, Phone Number, Email Address, and Experience, and displays this information on the user interface
